@@ -9,6 +9,12 @@ public class CreateChannel {
         //Greetings from IntelliJ
         //Take care
 
+        int x=0;
+        if (x==0){
+            System.out.println("equal");
+
+        }
+
 
     }
 
