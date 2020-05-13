@@ -6,5 +6,7 @@ public class Emoji {
 
         System.out.println( "User can send emoji");
 
+        //everything is perfect
+
     }
 }
