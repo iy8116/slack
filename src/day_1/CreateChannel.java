@@ -6,6 +6,9 @@ public class CreateChannel {
 
         System.out.println("User is able to create channels");
 
+        //Greetings from IntelliJ
+        //Take care
+
 
     }
 
